@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="30ASidewalks.us" tvg-logo="https://i.imgur.com/HSdwqZN.png" group-title="Entertainment",30A Sidewalks (720p)
-https://30a-tv.com/sidewalks.m3u8
-#EXTINF:-1 tvg-id="30ATelevisionChannel.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHiYfIB01K44LIBG81aEGAmDuIWw8MA0f2w&s" group-title="Entertainment",30A Television Channel
-https://30a-tv.com/feeds/masters/30atv.m3u8
-#EXTINF:-1 tvg-id="30ATheBeachShow.us" tvg-logo="https://i.imgur.com/0j5Aget.png" group-title="Shop",30A The Beach Show (720p)
-https://30a-tv.com/beachy.m3u8
-#EXTINF:-1 tvg-id="30ATVClassicMovies.us" tvg-logo="https://babaktv.com/wp-content/uploads/2023/09/30A-Classi-Movies.jpeg" group-title="Movies",30A TV Classic Movies
-https://30a-tv.com/feeds/pzaz/30atvmovies.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="3ABNKids.us" tvg-logo="https://i.imgur.com/SUPQAok.png" group-title="Animation;Kids;Religious",3ABN Kids
+https://3abn.bozztv.com/3abn2/Kids_live/smil:Kids_live.smil/playlist.m3u8
